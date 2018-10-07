@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Point3d{
 
 	private double xCoord, yCoord, zCoord;
